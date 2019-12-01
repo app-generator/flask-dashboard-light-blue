@@ -1,0 +1,31 @@
+
+    <!-- common libraries. required for every page-->
+    <script src="/static/assets/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/static/assets/lib/jquery-pjax/jquery.pjax.js"></script>
+    <script src="/static/assets/lib/bootstrap-sass/assets/javascripts/bootstrap.min.js"></script>
+    <script src="/static/assets/lib/widgster/widgster.js"></script>
+    <script src="/static/assets/lib/underscore/underscore.js"></script>
+
+    <!-- common application js -->
+    <script src="/static/assets/js/app.js"></script>
+    <script src="/static/assets/js/settings.js"></script>
+
+    <!-- common templates -->
+    <script type="text/template" id="settings-template">
+        <div class="setting clearfix">
+            <div>Sidebar on the</div>
+            <div id="sidebar-toggle" class="pull-left btn-group" data-toggle="buttons-radio">
+                <% onRight = sidebar == 'right'%>
+                <button type="button" data-value="left" class="btn btn-sm btn-default <%= onRight? '' : 'active' %>">Left</button>
+                <button type="button" data-value="right" class="btn btn-sm btn-default <%= onRight? 'active' : '' %>">Right</button>
+            </div>
+        </div>
+        <div class="setting clearfix">
+            <div>Sidebar</div>
+            <div id="display-sidebar-toggle" class="pull-left btn-group" data-toggle="buttons-radio">
+                <% display = displaySidebar%>
+                <button type="button" data-value="true" class="btn btn-sm btn-default <%= display? 'active' : '' %>">Show</button>
+                <button type="button" data-value="false" class="btn btn-sm btn-default <%= display? '' : 'active' %>">Hide</button>
+            </div>
+        </div>
+    </script>

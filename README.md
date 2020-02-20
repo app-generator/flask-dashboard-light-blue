@@ -1,16 +1,34 @@
 # [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue)
 
-**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Light Blue Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ### Dashboard Features:
 
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
-- Deployment scripts: Docker, Gunicorn
-- UI Kit: **Light Blue Dashboard** provided by **FlatLogic**
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- UI Kit: **[Light Blue Dashboard](https://flask-dashboard-light-blue.appseed.us/login)** (Free version) provided by **FlatLogin**
+- **MIT License**
+- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
+
+<br />
+
+## Dashboard technology stack
+
+- Used Language: [Python3](https://www.python.org/) (Python2 is not supported)
+- Web Framework: [Flask](https://www.palletsprojects.com/p/flask/)
+- CSS Framework: [Bootstrap CSS](https://getbootstrap.com/)
+- Javascript: [jQuery](https://jquery.com/)
+
+<br />
+
+## Dashboard Links
+
+- [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - the product page
+- [Flask Dashboard Light Blue](https://github.com/app-generator/flask-dashboard-light-blue) - the source code
+- [Flask Dashboard Light Blue](https://flask-dashboard-light-blue.appseed.us/login) - LIVE Demo
 
 <br />
 
@@ -141,25 +159,25 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Support
-
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
-
-<br />
-
 ## Credits & Links
 
-- [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Product page
-- [Flask Framework](https://www.palletsprojects.com/p/flask/) - Offcial website
-- [Flask Dashboard - Open-Source Boilerplates](https://dev.to/sm0ke/flask-dashboard-open-source-boilerplates-dkg) - A popular article published on Dev.to platform
-- [Flask Dashboard](https://admin-dashboards.com/tags/flask-dashboard) - Index provided by **Admin-Dashboards.com**
+<br />
+
+## What is [Flask](https://www.palletsprojects.com/p/flask/)
+
+[Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
 <br />
 
-## License
+## [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-@MIT
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+
+<br />
+
+## [Light Blue Dashboard](https://github.com/flatlogic/light-blue-dashboard)
+
+Using this template you will be able to leverage lots of built-in components and thus focus on building features that set you apart from competitors rather than bulding everything from scratch - provided by **[FlatLogic](https://flatlogic.com/)**.
 
 <br />
 

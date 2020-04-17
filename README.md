@@ -26,7 +26,7 @@ This product is **built based on community feedback**. Feel free (anonymously) t
 ## Dashboard Links
 
 - [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - the product page
-- [Flask Dashboard Light Blue](https://github.com/app-generator/flask-dashboard-light-blue) - the source code
+- [Flask Dashboard Light Blue](https://docs.appseed.us/admin-dashboards/flask-dashboard-light-blue/) - Documentation
 - [Flask Dashboard Light Blue](https://flask-dashboard-light-blue.appseed.us/login) - LIVE Demo
 
 <br />

@@ -1,4 +1,4 @@
-# [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue)
+# [Flask Dashboard - Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -14,11 +14,11 @@
 
 > Links
 
-- [Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - the product page
-- [Flask Dashboard Light Blue](https://docs.appseed.us/admin-dashboards/flask-dashboard-light-blue/) - Documentation
-- [Flask Dashboard Light Blue](https://flask-dashboard-light-blue.appseed.us/login) - LIVE Demo
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Flask Dashboard - Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Product page
+- [Flask Dashboard Light Blue Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-light-blue/) - Documentation
+- [Flask Dashboard Light Blue Demo](https://flask-dashboard-light-blue.appseed.us/login) - LIVE App
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -172,4 +172,4 @@ Using this template you will be able to leverage lots of built-in components and
 <br />
 
 ---
-[Flask Dashboard Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).

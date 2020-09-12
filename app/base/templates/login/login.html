@@ -28,7 +28,7 @@
                             <span class="input-group-addon">
                                 <i class="fa fa-user"></i>
                             </span>
-                            <input class="form-control input-lg input-transparent" placeholder="Username" type="text" name="username" value="test">
+                            {{ form.username(placeholder="Username", class="form-control input-lg input-transparent") }}
                         </div>
                     </div>
                     
@@ -39,7 +39,7 @@
                             <span class="input-group-addon">
                                 <i class="fa fa-lock"></i>
                             </span>
-                            <input class="form-control input-lg input-transparent" placeholder="Password" type="password" name="password" value="pass">
+                            {{ form.password(placeholder="Password", class="form-control input-lg input-transparent", type="password") }}
                         </div>
                     </div>
                 </fieldset>

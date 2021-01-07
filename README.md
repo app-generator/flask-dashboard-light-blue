@@ -21,6 +21,7 @@ Using this template you will be able to leverage lots of built-in components and
 
 - [Flask Light Blue](https://appseed.us/admin-dashboards/flask-dashboard-light-blue) - Product page
 - [Flask Light Blue Demo](https://flask-dashboard-light-blue.appseed.us/login) - LIVE App
+- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
 
